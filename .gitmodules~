@@ -1,0 +1,27 @@
+[submodule "redis"]
+	path = redis
+	url = https://github.com/antirez/redis.git
+[submodule "leveldb"]
+	path = leveldb
+	url = https://github.com/google/leveldb.git
+[submodule "seata"]
+	path = seata
+	url = https://github.com/seata/seata.git
+[submodule "grpc-go"]
+	path = grpc-go
+	url = https://github.com/grpc/grpc-go.git
+[submodule "etcd"]
+	path = etcd
+	url = https://github.com/etcd-io/etcd.git
+[submodule "rocketmq"]
+	path = rocketmq
+	url = https://github.com/apache/rocketmq.git
+[submodule "dkron"]
+	path = dkron
+	url = https://github.com/distribworks/dkron.git
+[submodule "zipkin"]
+	path = zipkin
+	url = https://github.com/openzipkin/zipkin.git
+[submodule "docs"]
+	path = docs
+	url = https://github.com/mongodb/docs.git
